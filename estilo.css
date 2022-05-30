@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    max-width: max-content;
+    margin: 0px auto;
+    margin-top: 35px;
+    position: relative;
+    bottom:-120px;
+    left:153px;
+    
+}
+
+#conteudo {
+    position:relative; right:250px;
+    
+}
+
+#foto {
+    background: #dcdcdc;
+    height: 300px ;
+    width: 250px;
+    border: 4px solid white;
+  
+}
+
+#texto {
+   display: inline;
+   color: white;
+   position:relative; bottom:120px;
+   left: 34px;
+}
+
+h1 {
+    display: inline;
+    
+}
+
+p {
+    display: block;
+    position:relative; bottom: 130px; left:253px;
+    margin-top: -10px;
+    
+}
+
+ul {
+    display: inline;
+   color: white;
+   position:relative; bottom: 100px; left:550px;
+}
+
+a {
+    color: red;
+    text-decoration-color:red
+    
+}
+
+a:hover {
+ color: red;
+ text-decoration-color:red
+
+}
+
+#foto2 {
+    background: #dcdcdc;
+    height: 300px ;
+    width: 300px;
+    border: 4px solid white;
+}
+
